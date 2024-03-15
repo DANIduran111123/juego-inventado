@@ -1,18 +1,12 @@
-# Generador de Color Aleatorio
+# Seleccionador Aleatorio de Frutas
 
-## Objetivo del Proyecto
-El objetivo de este proyecto es crear un programa en Python que genere un color aleatorio cada vez que se ejecute.
+Este script en Python selecciona aleatoriamente una fruta de una lista predefinida y la imprime en la consola.
 
-## Requisitos Funcionales
-1. El programa debe ser capaz de generar un color aleatorio.
-2. El color generado debe ser presentado al usuario.
-3. El usuario debe tener la opción de generar otro color o salir del programa.
+## Uso
 
-## Requisitos No Funcionales
-1. El programa debe ser fácil de entender y usar.
-2. El código debe seguir buenas prácticas de programación.
+1. Asegúrate de tener Python instalado en tu sistema.
+2. Descarga el archivo random_fruit_selector.py.
+3. Ejecuta el script en tu terminal o entorno de desarrollo.
 
-## Diseño del Programa
-El programa constará de una función principal que generará el color aleatorio y lo mostrará al usuario. Luego, se le preguntará al usuario si desea generar otro color o salir del programa.
-
-## Diagrama de Flujo
+```bash
+python random_fruit_selector.py
